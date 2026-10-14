@@ -1,0 +1,9 @@
+Baseline Accuracy: 0.8779349952378508
+              precision    recall  f1-score   support
+
+           0       0.74      0.96      0.83     56000
+           1       0.98      0.84      0.90    119341
+
+    accuracy                           0.88    175341
+   macro avg       0.86      0.90      0.87    175341
+weighted avg       0.90      0.88      0.88    175341
